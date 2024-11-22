@@ -1,0 +1,29 @@
+C:\WORK\L2\L2-1\bin\Debug\L2-1.exe.config
+C:\WORK\L2\L2-1\bin\Debug\L2-1.exe
+C:\WORK\L2\L2-1\bin\Debug\L2-1.pdb
+C:\WORK\L2\L2-1\obj\Debug\L2-1.csproj.AssemblyReference.cache
+C:\WORK\L2\L2-1\obj\Debug\L2_1.Form1.resources
+C:\WORK\L2\L2-1\obj\Debug\L2_1.Properties.Resources.resources
+C:\WORK\L2\L2-1\obj\Debug\L2-1.csproj.GenerateResource.cache
+C:\WORK\L2\L2-1\obj\Debug\L2-1.csproj.CoreCompileInputs.cache
+C:\WORK\L2\L2-1\obj\Debug\L2-1.exe
+C:\WORK\L2\L2-1\obj\Debug\L2-1.pdb
+C:\WORK\L2\L2-1\obj\Debug\L2_1.Form2.resources
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\L2-1.exe.config
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\L2-1.exe
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\L2-1.pdb
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\MySql.Data.dll
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\System.Memory.dll
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\System.Numerics.Vectors.dll
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\System.Buffers.dll
+C:\WORK\L2\L2-1 - Copy (2)\bin\Debug\MySql.Data.xml
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2-1.csproj.AssemblyReference.cache
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2_1.Form1.resources
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2_1.Form2.resources
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2_1.Properties.Resources.resources
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2-1.csproj.GenerateResource.cache
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2-1.csproj.CoreCompileInputs.cache
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2-1.csproj.Up2Date
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2-1.exe
+C:\WORK\L2\L2-1 - Copy (2)\obj\Debug\L2-1.pdb
